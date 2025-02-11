@@ -1,0 +1,1 @@
+worker: python blik_vpn_bot.py
